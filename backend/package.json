@@ -23,5 +23,7 @@
     "mongoose": "^5.12.3",
     "rate-limit-redis": "^2.1.0",
     "sucrase": "^3.18.1"
-  }
+  },
+  "author": "",
+  "description": ""
 }
